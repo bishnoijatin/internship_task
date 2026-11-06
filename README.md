@@ -24,7 +24,7 @@ This project creates a Histogram using Python's Matplotlib library to visualize 
 ## Output
 The program generates a histogram showing the age distribution of people between 18 and 30 years.
 
-**Output File:** `age.png`
+**Output File:** `Figure_1.png`
 
 ## Conclusion
 This project demonstrates how to create and save a histogram using Python Matplotlib for basic data visualization.
